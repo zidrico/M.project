@@ -23,7 +23,7 @@
   <img align="center" alt="zidrico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
- <h1> Foco é a evolução! </h1>
+ <h1> O foco é a evolução! </h1>
 <div>
 <img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
 </div>
