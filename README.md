@@ -29,8 +29,8 @@
  
  <div style="display: inline_block"><br>
   <h1> IDE's </h1>
- <img align="center" alt="zidrico-Vs" height="60" width="80"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
- <img align="center" alt="zidrico-ECP" height="60" width="80"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img align="center" alt="zidrico-Vs" height="60" width="100"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ <img align="center" alt="zidrico-ECP" height="60" width="100"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
 </div>
  
