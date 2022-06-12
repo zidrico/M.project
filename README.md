@@ -30,7 +30,7 @@
  <img align="center" alt="zidrico-Vs" height="40" width="120"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
  <img align="center" alt="zidrico-ECP" height="40" width="120"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
- ##
+ 
  <h1> O foco é a evolução! </h1>
 <div>
 <img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
