@@ -16,13 +16,25 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="zidrico-SQL" height="60" width="40"  src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="center" alt="zidrico-" height="60" width="80" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="zidrico-SQLs" height="60" width="80" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="zidrico-PostSQL" height="30" width="60"<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-  badge&logo=postgresql&logoColor=white" >
   <img align="center" alt="zidrico-mySQL" height="40" width="40"  src="https://www.svgrepo.com/show/355133/mysql.svg" >
   <img align="center" alt="zidrico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zidrico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
+ 
+ ##
+ 
+ 
+ <div style="display: inline_block"><br>
+  <h1> IDE's </h1>
+ <img align="center" alt="zidrico-Vs" height="60" width="40"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ <img align="center" alt="zidrico-ECP" height="60" width="40"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+
+</div>
+ 
+ ##
 
  <h1> O foco é a evolução! </h1>
 <div>
