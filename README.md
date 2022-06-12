@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidrico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
- ##
   <h1> Linguagens mais usadas </h1>
 <div style="display: inline_block"><br>
    <img align="center" alt="zidrico-SQL" height="60" width="40"  src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
@@ -25,7 +24,7 @@
   <img align="center" alt="zidrico-PostSQL" height="30" width="60"<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-  badge&logo=postgresql&logoColor=white" >
   <img align="center" alt="zidrico-mySQL" height="40" width="40"  src="https://www.svgrepo.com/show/355133/mysql.svg" >
  </div>
- ##
+
  <div style="display: inline_block"><br>
   <h1> IDE's </h1>
  <img align="center" alt="zidrico-Vs" height="40" width="120"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
