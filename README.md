@@ -35,7 +35,7 @@
 <div>
 <img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
 </div>
- <hr>
+
 <div>
  <h1> Minhas redes sociais</h1>
   <a href="https://www.instagram.com/josue_redhot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
