@@ -16,6 +16,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="zidrico-PostSQL" height="50" width="60"<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-  badge&logo=postgresql&logoColor=white" >
+ &ensp
   <img align="center" alt="zidrico-mySQL" height="60" width="40" <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
   <img align="center" alt="zidrico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zidrico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
