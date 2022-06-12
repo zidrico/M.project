@@ -3,8 +3,8 @@
 - 🔭 Hoje não estou trabalhando na área, porém estou em busca de oportunidades.
 - 🌱 Sou formado em Análise Desenvolvimento de Sistemas, pela UNINOVE onde adquiri habilidade em HTML, CSS, conhecimento  sólido em lógica de programação, e agora    atualmente estou estudando SQL pela UDEMY que me trouxe conhecimento e prática em bancos relacionais, diferença entre OLTP, OLAP, um pouco de B.I, DataWareHouse, possuo também INGLÊS Intermediário.
 - 🤔 Estou procurando ajuda para entrar no mercado de trabalho. 
-- 💬 Contate me no email:jhou1917@hotmail.com
-##
+- 💬 Contate me no email:josue.monteiro.dev@gmail.com
+
 <div>
  <h1> Meus Status </h1>
   <a href="https://github.com/zidrico">
