@@ -1,4 +1,4 @@
- <h1>👋 Olá! Eu sou o Josué Monteiro.</h1>
+ <h1>👋 Olá! Eu sou o Josué Monteiro. CodeNome: zidrico </h1>
 
 - 🌱 Sou formado em Análise Desenvolvimento de Sistemas, pela UNINOVE onde adquiri habilidade em HTML, CSS, conhecimento  sólido em lógica de programação, e agora    atualmente estou estudando SQL pela UDEMY que me trouxe conhecimento e prática em bancos relacionais, diferença entre OLTP, OLAP, um pouco de B.I, DataWareHouse, possuo também INGLÊS Intermediário.
 - 🤔 Estou procurando ajuda para entrar no mercado de trabalho. 
