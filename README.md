@@ -1,7 +1,7 @@
  <h1>👋 Olá! Eu sou o Josué Monteiro. CodeNome: zidrico </h1>
 
-- 🌱 Sou formado em Análise Desenvolvimento de Sistemas, pela UNINOVE onde adquiri habilidade em HTML, CSS, conhecimento  sólido em lógica de programação, e agora    atualmente estou estudando SQL pela UDEMY que me trouxe conhecimento e prática em bancos relacionais, diferença entre OLTP, OLAP, um pouco de B.I, DataWareHouse, possuo também INGLÊS Intermediário.
-- 🤔 Estou procurando ajuda para entrar no mercado de trabalho. 
+- 🌱 Sou formado em Análise Desenvolvimento de Sistemas, pela UNINOVE onde adquiri habilidade em HTML, CSS, JavaScript, atualmente estudando pela UDEMY FRONT-END para aprimorar e melhorar habilidades que um DEV precisa, possuo conhecimento  sólido em lógica de programação, e certificado em SQL pela UDEMY que me trouxe conhecimento e prática em bancos relacionais, diferença entre OLTP, OLAP, um pouco de B.I, DataWareHouse, possuo também INGLÊS Intermediário.
+- 🤔 Procurando vagas no mercado de trabalho. 
 - 💬 Contate me no email:josue.monteiro.dev@gmail.com
 ##
 <div>
