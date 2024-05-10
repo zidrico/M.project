@@ -31,9 +31,9 @@
  <img align="center" alt="zidrico-vsCod" height="40" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
  
- <h1> O foco é a evolução! </h1>
+<h1> O foco é a evolução! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
+<img align="center" alt="zidrico-yoda" src="Gifs.gif">
 </div>
 
 <div>
